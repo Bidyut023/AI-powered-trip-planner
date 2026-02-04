@@ -31,7 +31,7 @@ Installation
 ---
  1.Clone the Repository
  --
-  - git clone https://github.com/Bidyut023/Triply-ai-powered-trip-planner.git
+  - git clone https://github.com/Bidyut023/AI-powered-trip-planner
   - cd Triply-ai-powered-trip-planner
 
 ---
